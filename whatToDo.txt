@@ -1,0 +1,9 @@
+
+codes for:
+    1. maths of cnn
+    2. CNN, Rcnn
+    3.Neural Networks and cnn
+    
+    ------------8th October------------
+    
+    idea for: implementation of an app using ar/ai
